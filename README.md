@@ -1,2 +1,2 @@
 # hello-world
-first repository(初体验)
+first repository
